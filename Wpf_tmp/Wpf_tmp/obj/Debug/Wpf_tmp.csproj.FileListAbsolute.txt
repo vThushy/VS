@@ -1,0 +1,15 @@
+E:\VS\Wpf_tmp\Wpf_tmp\bin\Debug\Wpf_tmp.exe.config
+E:\VS\Wpf_tmp\Wpf_tmp\bin\Debug\Wpf_tmp.exe
+E:\VS\Wpf_tmp\Wpf_tmp\bin\Debug\Wpf_tmp.pdb
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\Wpf_tmp.csprojResolveAssemblyReference.cache
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\MainWindow.g.cs
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\App.g.cs
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\Wpf_tmp_MarkupCompile.cache
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\Wpf_tmp_MarkupCompile.lref
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\MainWindow.baml
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\Wpf_tmp.g.resources
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\Wpf_tmp.Properties.Resources.resources
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\Wpf_tmp.csproj.GenerateResource.Cache
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\Wpf_tmp.exe
+E:\VS\Wpf_tmp\Wpf_tmp\obj\Debug\Wpf_tmp.pdb

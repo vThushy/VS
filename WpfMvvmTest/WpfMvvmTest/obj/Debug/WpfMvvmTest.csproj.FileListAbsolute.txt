@@ -1,0 +1,15 @@
+E:\VS\WpfMvvmTest\WpfMvvmTest\bin\Debug\WpfMvvmTest.exe.config
+E:\VS\WpfMvvmTest\WpfMvvmTest\bin\Debug\WpfMvvmTest.exe
+E:\VS\WpfMvvmTest\WpfMvvmTest\bin\Debug\WpfMvvmTest.pdb
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\WpfMvvmTest.csprojResolveAssemblyReference.cache
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\MainWindow.baml
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\MainWindow.g.cs
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\App.g.cs
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\WpfMvvmTest_MarkupCompile.cache
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\WpfMvvmTest.g.resources
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\WpfMvvmTest.Properties.Resources.resources
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\WpfMvvmTest.csproj.GenerateResource.Cache
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\WpfMvvmTest.exe
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\WpfMvvmTest.pdb
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\WpfMvvmTest_MarkupCompile.lref
+E:\VS\WpfMvvmTest\WpfMvvmTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
